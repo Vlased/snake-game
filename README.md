@@ -1,2 +1,2 @@
 # snake-game
-Snake game using C++ add QT
+Snake game using C++ and QT
